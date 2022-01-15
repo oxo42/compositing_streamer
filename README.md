@@ -10,10 +10,10 @@ If you want to do this multiple times, run multiple containers
 
 ## TODO
 
-[] Make nginx start the streamer command only when there is a session going
-[] Figure out a way to have more than two streams along with clean ways of setting the x & y coords
-[] Figure out how to downsample the incoming streams into a single 1920x540 stream, right now it's a 3840x1080p stream
-[] Publish to dockerhub
+* Make nginx start the streamer command only when there is a session going
+* Figure out a way to have more than two streams along with clean ways of setting the x & y coords
+* Figure out how to downsample the incoming streams into a single 1920x540 stream, right now it's a 3840x1080p stream
+* Publish to dockerhub
 
 
 ## Dev tips
